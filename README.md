@@ -1,6 +1,6 @@
 # AWS Hands-on Project – Cloud Computing Essentials
 
-🇧🇷## 📌 Descrição (PT-BR)
+🇧🇷 ## 📌 Descrição (PT-BR)
 Projeto realizado através do **AWS SimuLearn (Skill Builder)**.  
 O desafio foi ajudar um cliente fictício a melhorar a confiabilidade de sua aplicação web, utilizando serviços da **Amazon Web Services**.
 
@@ -22,7 +22,7 @@ O desafio foi ajudar um cliente fictício a melhorar a confiabilidade de sua apl
 
 ---
 
-🇺🇸## 🌐 Overview (EN)
+🇺🇸 ## 🌐 Overview (EN)
 Project completed through **AWS SimuLearn (Skill Builder)**.  
 The challenge was to help a fictional customer improve the reliability of their web application by using **Amazon Web Services**.
 
